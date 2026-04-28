@@ -36,5 +36,3 @@ Cultural Sustainability: Fostering a sustainable model for communities to streng
 
 Innovation: Successfully intersecting digital innovation with the traditional craft sector.
 W-ART: Preserving the past, empowering the present, and securing the future of local craftsmanship.
-
-Built with
